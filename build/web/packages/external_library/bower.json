@@ -1,0 +1,14 @@
+{
+  "name": "lib",
+  "authors": [
+    "dmitriy <msk.roytop@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "slick": "*"
+  }
+}
